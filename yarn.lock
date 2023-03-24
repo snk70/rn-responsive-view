@@ -5523,6 +5523,11 @@ react-native-gradle-plugin@^0.71.16:
   resolved "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.16.tgz"
   integrity sha512-H2BjG2zk7B7Wii9sXvd9qhCVRQYDAHSWdMw9tscmZBqSP62DkIWEQSk4/B2GhQ4aK9ydVXgtqR6tBeg3yy8TSA==
 
+react-native-responsive-font@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-responsive-font/-/react-native-responsive-font-0.1.1.tgz#f2936a4b8d5b7cc52b8c8aadb01314fba5de43f4"
+  integrity sha512-TO05MpxcZphWcZv/txfnSq8n8isRAJRVtij4sMJt8+Mmf172voc/ncri/N2vX6JEtMMShgG43JxQ+P9+INnHNQ==
+
 react-native@0.71.4:
   version "0.71.4"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.71.4.tgz"
@@ -5809,11 +5814,6 @@ rimraf@~2.6.2:
   integrity sha512-mwqeW5XsA2qAejG46gYdENaxXjx9onRNCfn7L0duuP4hCuTIi/QO7PDK07KJfp1d+izWPrzEJDcSqBa0OZQriA==
   dependencies:
     glob "^7.1.3"
-
-rn-responsive-view@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/rn-responsive-view/-/rn-responsive-view-0.1.1.tgz#ce79c1df6f72e7509e65b43b65bd15b5c6485868"
-  integrity sha512-qcmpslY1GH19jmlTfDDfnxY2w+iIJd+EoWcO/86xQrrlik5tlMf//b64YioR0qfLmh2vmDEhcVNepK+gdCgoJw==
 
 run-parallel@^1.1.9:
   version "1.2.0"
